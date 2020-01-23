@@ -1,0 +1,16 @@
+{
+	"name": "modern_portfolio",
+	"version": "1.0.0",
+	"description": "Responsive portfolio website",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"sass": "node-sass -w scss/ -o dist/css/ --recursive"
+	},
+	"author": "Pocholo Tan",
+	"license": "MIT",
+	"dependencies": {
+		"node-sass": "^4.13.1",
+		"prettier": "^1.19.1"
+	}
+}
